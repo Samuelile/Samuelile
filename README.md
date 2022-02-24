@@ -8,7 +8,7 @@ Within this portfolio I have included a number of projects and contracts I have 
 
 Skills: PYTHON / SOLIDITY / TRUFFLE / HARDHAT
 
-- 🔭 I’m currently working on posting more completed smart contract examples 
+- 🔭 I’m currently working on posting more smart contract and decentralized application examples 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samuelile)  
