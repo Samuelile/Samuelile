@@ -1,4 +1,4 @@
-### Hi there 👋, Oludare Ilesanmi
+### Hi there 👋
 #### Blockchain development
 ![Blockchain development](https://crypto-info.io/wp-content/uploads/2018/04/BLOCKCHAIN-BACK-EX2.png)
 
