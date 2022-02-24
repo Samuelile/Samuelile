@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Oludare Ilesanmi
 #### Blockchain development
 
-![Blockchain development]()
+![Blockchain DApp development]()
 
 I live within the midwestern region of the United States. Since the spring of 2019 I have been facinated by the world of cryptocureency and blockchain technology. I have taken this excitement and applied it to contract and blockchain development. I enjoy progamminging in python and solidilty.
 
