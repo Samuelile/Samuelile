@@ -1,6 +1,6 @@
 ### Hi there 👋, Oludare Ilesanmi
 #### Blockchain development
-![Blockchain development](https://res.cloudinary.com/springboard-images/image/upload/c_limit,dpr_1.0,f_auto,fl_lossy,q_auto/v1/uploads/learning_path/thumb/1522460472_LP-thumbnail-blockchain.png)
+![Blockchain development](https://crypto-info.io/wp-content/uploads/2018/04/BLOCKCHAIN-BACK-EX2.png)
 
 My name is Oludare and I live within the midwestern region of the United States. Since the spring of 2019 I have been facinated by the world of cryptocureency and blockchain technology. I have taken this excitement and applied it to contract and blockchain development. I enjoy progamminging in python and solidilty.
 
