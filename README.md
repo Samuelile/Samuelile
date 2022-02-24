@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Oludare Ilesanmi
+### Hi there 👋, Oludare Ilesanmi
 #### Blockchain development
 ![Blockchain development](https://cdn2.assets-servd.host/lively-jackal/production/uploads/resources/banners/blog/_blogBanner/Blockchain-Banner.jpg)
 
@@ -8,10 +8,10 @@ Within this portfolio I have included a number of projects and contracts I have 
 
 Skills: PYTHON / SOLIDITY / TRUFFLE / HARDHAT
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on posting more completed smart contract examples 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samuelile)  
 
 
 <!--
