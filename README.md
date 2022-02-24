@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Oludare Ilesanmi
 #### Blockchain development
 
-![Blockchain development](https://scet.berkeley.edu/wp-content/uploads/BCgraphicelement-3.png)
+![Blockchain development]()
 
 I live within the midwestern region of the United States. Since the spring of 2019 I have been facinated by the world of cryptocureency and blockchain technology. I have taken this excitement and applied it to contract and blockchain development. I enjoy progamminging in python and solidilty.
 
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://crypto-info.io/wp-content/uploads/2018/04/BLOCKCHAIN-BACK-EX2.png
+https://scet.berkeley.edu/wp-content/uploads/BCgraphicelement-3.png
 -->
