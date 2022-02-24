@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Oludare Ilesanmi
-#### Blockchain Dapp development
+#### Blockchain dApp development
 
 ![Blockchain development]()
 
