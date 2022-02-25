@@ -7,7 +7,7 @@ I live within the midwestern region of the United States. Since the spring of 20
 
 Within this portfolio I have included a number of projects and contracts I have compiled.
 
-Skills: PYTHON / SOLIDITY / TRUFFLE / HARDHAT
+Skills: PYTHON / SOLIDITY / METAMASK / HARDHAT
 
 - 🔭 I’m currently working on decentralized applications
 
