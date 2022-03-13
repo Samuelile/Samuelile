@@ -3,11 +3,11 @@
 
 ![Blockchain development]()
 
-I live within the midwestern region of the United States. Since the spring of 2019 I have been facinated by the world of cryptocureency and blockchain technology. I have taken this excitement and applied it to contract and blockchain development. I enjoy progamminging in python and solidilty.
+I live within the midwestern region of the United States. Since the spring of 2019 I have been facinated by the world of cryptocureency and blockchain technology. I have taken this excitement and applied it to blockchain development. I enjoy progamminging in python and solidilty.
 
 Within this portfolio I have included a number of projects and contracts I have compiled.
 
-Skills: PYTHON / SOLIDITY / METAMASK / HARDHAT
+Skills: PYTHON / SOLIDITY / METAMASK / TRUFFLE
 
 - 🔭 I’m currently working on decentralized applications
 
