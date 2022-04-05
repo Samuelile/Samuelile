@@ -3,7 +3,7 @@
 
 ![Blockchain development]()
 
-I live within the midwestern region of the United States. Since the spring of 2019 I have been facinated by the world of cryptocureency and blockchain technology. I have taken this excitement and applied it to blockchain development. I enjoy progamminging in python and solidilty.
+I live within the midwestern region of the United States.  I have been fascinated by the world of cryptocurrency and blockchain technology. I have taken this excitement and applied it to blockchain development. I enjoy programming in python and solidity.
 
 Within this portfolio I have included a number of projects and contracts I have compiled.
 
