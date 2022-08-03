@@ -7,9 +7,9 @@ I live within the midwestern region of the United States.  I have been fascinate
 
 Within this portfolio I have included a number of projects and contracts I have compiled.
 
-Skills: PYTHON / SOLIDITY / METAMASK / TRUFFLE
+Skills: HTML / CSS / JAVASCRIPT / SOLIDITY / METAMASK / TRUFFLE / HARDHAT
 
-- 🔭 I’m currently working on decentralized applications
+- 🔭 I’m currently working on frontend web development and decentralized applications
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samuelile)  
